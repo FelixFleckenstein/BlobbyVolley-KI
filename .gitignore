@@ -1,0 +1,6 @@
+RamMonitor/.vs/*
+RamMonitor/Debug/*
+RamMonitor/Release/*
+RamMonitor/RamMonitor/Debug/*
+RamMonitor/RamMonitor/Release/*
+RamMonitor/RamMonitor/x64/*
